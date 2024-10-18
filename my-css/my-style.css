@@ -1,0 +1,12 @@
+.myBag {
+  background-color: lightgreen;
+  padding: 5px 15px;
+  border: none;
+  border-radius: 10px;
+}
+
+.myWish {
+  padding: 5px 15px;
+  border: 1px solid black;
+  border-radius: 10px;
+}
